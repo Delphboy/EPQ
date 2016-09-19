@@ -1,0 +1,21 @@
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\bin\Debug\EPQ.exe.config
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Debug\EPQ.Form1.resources
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Debug\EPQ.Properties.Resources.resources
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Debug\EPQ.csproj.GenerateResource.Cache
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\bin\Debug\EPQ.exe
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\bin\Debug\EPQ.pdb
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Debug\EPQ.exe
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Debug\EPQ.pdb
+C:\Users\HPS19\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\bin\Debug\EPQ.exe.config
+C:\Users\HPS19\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Debug\EPQ.exe
+C:\Users\HPS19\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Debug\EPQ.pdb
+C:\Users\HPS19\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\bin\Debug\EPQ.exe
+C:\Users\HPS19\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\bin\Debug\EPQ.pdb
+C:\Users\HPS19\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Debug\EPQ.csprojResolveAssemblyReference.cache
+C:\Users\HPS19\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Debug\EPQ.Form1.resources
+C:\Users\HPS19\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Debug\EPQ.Properties.Resources.resources
+C:\Users\HPS19\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Debug\EPQ.csproj.GenerateResource.Cache
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Debug\EPQ.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Google Drive\Education\Canon Slade\EPQ\Project\Programming\EPQ\EPQ\bin\Debug\EPQ.exe.config
+C:\Users\Henry\Google Drive\Education\Canon Slade\EPQ\Project\Programming\EPQ\EPQ\obj\Debug\EPQ.exe
+C:\Users\Henry\Google Drive\Education\Canon Slade\EPQ\Project\Programming\EPQ\EPQ\obj\Debug\EPQ.pdb

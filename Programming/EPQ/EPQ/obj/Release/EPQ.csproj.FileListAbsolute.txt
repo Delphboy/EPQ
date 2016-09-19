@@ -1,0 +1,6 @@
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\bin\Release\EPQ.exe.config
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Release\EPQ.Form1.resources
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Release\EPQ.Properties.Resources.resources
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Release\EPQ.csproj.GenerateResource.Cache
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Release\EPQ.exe
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ\obj\Release\EPQ.pdb

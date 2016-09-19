@@ -1,0 +1,10 @@
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ_UnitTest\bin\Debug\EPQ_UnitTest.dll
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ_UnitTest\bin\Debug\EPQ_UnitTest.pdb
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ_UnitTest\bin\Debug\EPQ.exe
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ_UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ_UnitTest\bin\Debug\EPQ.pdb
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ_UnitTest\obj\Debug\EPQ_UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ_UnitTest\obj\Debug\EPQ_UnitTest.dll
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ_UnitTest\obj\Debug\EPQ_UnitTest.pdb
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ_UnitTest\bin\Debug\EPQ_UnitTest.dll.CodeAnalysisLog.xml
+C:\Users\Henry\Google Drive\School\EPQ\Project\Programming\EPQ\EPQ_UnitTest\bin\Debug\EPQ_UnitTest.dll.lastcodeanalysissucceeded
